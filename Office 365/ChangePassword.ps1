@@ -1,0 +1,1 @@
+Set-MsolUserPassword -UserPrincipalName JSmith@Netwrixqcspa.onmicrosoft.com -NewPassword P@SSw0rd!
