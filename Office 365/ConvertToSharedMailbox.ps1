@@ -1,1 +1,1 @@
-Set-Mailbox "test@ABMUSA.onmicrosoft.com" -Type Shared
+Set-Mailbox "boris.campbell@exoip.com" -Type Shared
