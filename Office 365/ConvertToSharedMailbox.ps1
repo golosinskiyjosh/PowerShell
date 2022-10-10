@@ -1,0 +1,1 @@
+Set-Mailbox "test@ABMUSA.onmicrosoft.com" -Type Shared
