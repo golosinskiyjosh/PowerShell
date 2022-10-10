@@ -1,0 +1,1 @@
+C:\>Set-Mailbox "boris.campbell@exoip.com" -Type Regular
